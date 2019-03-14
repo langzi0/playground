@@ -1,0 +1,15 @@
+The code should run on any of the following operating systems:
+
+* Microsoft Windows
+* Mac OS X
+* Linux
+
+The following software are required to run the code. It is preferable to download and install the latest versions of the software. 
+
+* Oracle Java (http://www.oracle.com/technetwork/java/index.html)
+* Apache maven (http://maven.apache.org/)
+
+There are some code samples, which uses git (for example: project-with-release, project-with-documentation). Install the following and add these projects to the repository.
+
+* Git (http://git-scm.com)
+

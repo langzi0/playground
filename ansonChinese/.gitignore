@@ -1,0 +1,31 @@
+## build output
+target/
+out/
+
+## eclipse files
+.project
+.classpath
+.settings/
+
+## Mac directory files
+.DS_Store
+Thumbs.db
+
+## IntelliJ Files
+.idea
+*.ipr
+*.iws
+/test/
+/lib/
+/classes/
+/bin/
+
+# different kinds of log
+*.log
+src/main/resources/rebel.xml
+
+
+## React Files
+/node_modules/
+src/main/resources/static/assets/fonts/
+src/main/resources/static/bundle.js
