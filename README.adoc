@@ -1,5 +1,7 @@
+Dev note:  This is main code for my playground.   
+Active code is use the work branch.   Do not put in master, in case check in show other github user.
+
 ---
-Dev note:  use the work branch in case check in show other github user. 
 
 tags: [maven]
 projects: []
