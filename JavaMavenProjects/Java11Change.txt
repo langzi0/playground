@@ -1,0 +1,31 @@
+https://codete.com/blog/java-8-java-11-quick-guide/
+
+Java 9:
+1. Default methods in interfaces
+Starting from Java 9, we can define private methods in interfaces.
+
+Let’s say we have interface that returns number of available white and red items:
+
+2. Optional Class
+   Java 9 comes with new methods in Optional class.
+
+   Optional.ifPresentOrElse()
+Optional.or()
+3. Immutable Collection Factory
+  return Map.of("John", 1, "Betty", 2);
+   return Set.of("John", "George", "Betty");
+
+Java 10
+
+var:
+var numbers = List.of("a", "b", "c");
+var users = new ArrayList<User>(); // type resolved: ArrayList<User>
+users = new LinkedList<User>(); // error
+
+Java 11
+Local-Variable Syntax for Lambda Parameters
+IntFunction<Integer> doubleIt1 = (int x) -> x * 2; // Correct
+IntFunction<Integer> doubleIt2 = (var x) -> x * 2; // Error in java 10
+IntFunction<Integer> doubleIt = x -> x * 2;  //good in java 11
+
+java SimpleProgram.java ; launch the app
